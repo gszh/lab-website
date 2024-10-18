@@ -7,7 +7,7 @@ on:
     types:
       - completed
     branches:
-      - gh-pages
+      - main # gh-pages
 
   # run if user manually requests it
   workflow_dispatch:
